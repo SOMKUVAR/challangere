@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challangere/static/css/main.81c25091.css",
+    "main.js": "/challangere/static/js/main.429deca1.js",
+    "static/js/787.d13c613a.chunk.js": "/challangere/static/js/787.d13c613a.chunk.js",
+    "index.html": "/challangere/index.html",
+    "main.81c25091.css.map": "/challangere/static/css/main.81c25091.css.map",
+    "main.429deca1.js.map": "/challangere/static/js/main.429deca1.js.map",
+    "787.d13c613a.chunk.js.map": "/challangere/static/js/787.d13c613a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81c25091.css",
+    "static/js/main.429deca1.js"
+  ]
+}
